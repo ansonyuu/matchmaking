@@ -1,6 +1,8 @@
 # Embedding Matchmaking
 
-"Words can't describe how unique your interests are... but coordinates can" - Sean Ashley, circa 2023
+_"Words can't describe how unique your interests are... but coordinates can" - Sean Ashley, circa 2023_
+
+A flattened embedding space of names clustered based on their interests using the sentence-transformers all-MiniLM-L6-v2 model. Created for the UW Startups S23 Kickoff event with guidance from [Jacky Zhao](https://jzhao.xyz/) and [Sean Ashley](https://www.linkedin.com/in/sean-ashley).
 
 ## Instructions for use
 
@@ -14,3 +16,4 @@
 2. Clone the repository
 3. Replace `attendees.csv` in `visualizer.ipynb` with the path to your downloaded data
 4. Run all cells
+5. Bask in the glory of having an awesome new poster
