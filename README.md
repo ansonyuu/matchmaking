@@ -16,6 +16,14 @@ A flattened embedding space of names clustered based on their interests using th
 | Bob   | I too love being the universal placeholder for every CS joke        |
 
 2. Clone the repository
-3. Replace `attendees.csv` in `visualizer.ipynb` with the path to your downloaded data
-4. Run all cells
-5. Bask in the glory of having an awesome new poster
+3. Install all required packages:
+
+- `umap-learn`
+- `scikit-learn`
+- `scipy`
+- `sentence-transformers`
+- `matplotlib`
+
+4. Replace `attendees.csv` in `visualizer.ipynb` with the path to your downloaded data
+5. Run all cells
+6. Bask in the glory of having an awesome new poster
